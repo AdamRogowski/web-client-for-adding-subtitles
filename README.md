@@ -18,13 +18,13 @@ serve.json adds those headers, however a packet manager for js has to be used e.
 ### Dependencies
 
 - App uses ffmpeg library for browsers:
-  [ffmpeg.wasm](sample-app-view.jpg)
+  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
 
 ### Executing program
 
 While app was properly served with required headers, the following screen appears in the browser
 
-![app view](Image URL)
+![app-view](sample-app-view.jpg)
 
 Upload button should be used to upload the video file to the browser. Subtitles can be written when the video is paused, in the text field located below buttons.
 Accept Subtitles saves the provided subtitles at the exact moment of clicking the button.
