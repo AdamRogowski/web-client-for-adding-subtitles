@@ -18,7 +18,7 @@ serve.json adds those headers, however a packet manager for js has to be used e.
 ### Dependencies
 
 - App uses ffmpeg library for browsers:
-  [ffmpeg.wasm](https://github.com/AdamRogowski/web-client-for-adding-subtitles/blob/main/sample-app-view.jpg)
+  [ffmpeg.wasm](sample-app-view.jpg)
 
 ### Executing program
 
